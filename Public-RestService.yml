@@ -4,8 +4,7 @@ info:
  
 #Port - If 0 get random port
 server:
- address: 192.168.99.100
- port: 8090
+ port: 0
  
 #Eureka Instance ID
 eureka:
