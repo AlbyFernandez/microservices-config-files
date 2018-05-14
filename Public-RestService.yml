@@ -3,9 +3,9 @@ info:
  component: Public-RestService
  
 #Port - If 0 get random port
-server: 
- port: 0
+server:
  address: 192.168.99.100
+ port: 0
  
 #Eureka Instance ID
 eureka:
